@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_PWC_CODEMIGRATE_UTIL</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Custom Code Migration Utility program</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PWC_CODEMIGRATE_UTIL</CLSNAME>
+     <CMPNAME>GET_ALL_DEV_PACKAGES</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get All Z Development packages</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PWC_CODEMIGRATE_UTIL</CLSNAME>
+     <CMPNAME>GET_ALL_OBJECTS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get All Z Objects</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_PWC_CODEMIGRATE_UTIL</CLSNAME>
+     <CMPNAME>T_TADIR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table Type for TADIR</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
